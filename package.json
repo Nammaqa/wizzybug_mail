@@ -1,0 +1,12 @@
+{
+  "name": "my-vercel-api",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "@vercel/functions": "^2.0.0",
+    "nodemailer": "^6.10.1"
+  }
+}

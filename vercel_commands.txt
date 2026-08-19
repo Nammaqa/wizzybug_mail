@@ -1,0 +1,5 @@
+1. Connect to vercel from your local machine
+2. For this use command npm i -g vercel
+3. Just write the command "vercel"
+4. Setup all configuration
+5. Make any changes and write command "vercel --prod"
